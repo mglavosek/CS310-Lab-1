@@ -2,6 +2,7 @@
     <string name="app_name">Lab 1A</string>
     <string name="button">Button</string>
     <string name="press_the_button_to_get_story_help">Press the button to get story help!</string>
+    <string name="click_me">Click Me</string>
     <string-array name="plot_fragments">
         <item>you get knocked out</item>
         <item>you go somewhere else</item>
